@@ -1,0 +1,10 @@
+# Arquivos de metadado do Windows/WSL
+*:Zone.Identifier
+
+# Ambientes virtuais Python
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de sistema
+.DS_Store
